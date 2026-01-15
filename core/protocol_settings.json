@@ -1,0 +1,10 @@
+{
+    "project": "the_swerv_note",
+    "version": "1.5",
+    "architect": "Cory Miller",
+    "tier": 14,
+    "liquidity_source": "75_BTC_CASCADE",
+    "nodes": 20,
+    "system_mode": "PRIVATE",
+    "legacy_integration": false
+}
