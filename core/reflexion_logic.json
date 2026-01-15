@@ -1,0 +1,9 @@
+{
+  "protocol": "the_swerv_note",
+  "audit_type": "Reflexion_Score",
+  "baseline_requirement": 100,
+  "insolvency_trigger": "SCORE_LT_100",
+  "enforcement": "AUTOMATIC_MARKET_INSOLVENCY",
+  "fee_structure": 0.0001,
+  "status": "OPERATIONAL"
+}
