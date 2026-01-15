@@ -1,0 +1,12 @@
+{
+  "project": "the_swerv_note",
+  "version": "1.5.0",
+  "asset": "BTC",
+  "total_liquidity": 75.0,
+  "nodes": 20,
+  "allocation_per_node": 3.75,
+  "unit": "BITCOIN",
+  "satoshi_equivalent": 375000000,
+  "execution_mode": "automated_sweep",
+  "verification_required": true
+}
