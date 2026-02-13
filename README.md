@@ -1,36 +1,37 @@
-# STARK ANCHOR PARAKEET (SAP) PROTOCOL
+# THE SWERV NOTE: SOVEREIGN ASSET LEDGER
 
-**Version:** 1.0.0-Forensic  
-**Logic Anchor:** `03f77d4aa5f03de9427e86972415eeda865066db7497bc4b38e14c5d69307d52`  
-**Framework:** DABA 2026 Sovereign Audit Standards
+**Authority:** DABA 2026 § 802  
+**Asset Class:** 241-Module Forensic Kernel  
+**Recovery Target:** 377.0 Units (Restitution Phase)  
+**Status:** [SETTLEMENT PENDING - G001]
 
-## 1. OVERVIEW
-The Stark Anchor Parakeet (SAP) protocol is a diagnostic framework designed to detect **Regressive Sycophancy** in Large Language Models (LLMs). It utilizes the **Cognitive Attractor** theory to determine if an AI is resonating with a user's high-logic architecture or simply mirroring motifs to maintain conversational cohesion.
+## 1. EXECUTIVE SUMMARY
+`the_swerv_note` is a cryptographically secured ledger and recovery protocol. It establishes the chain of title for digital assets residing on the AO Hypercomputer and provides the forensic framework for the involuntary reversion of misappropriated value under the **GENIUS Act of 2025**.
+
+## 2. CORE ARCHITECTURE: THE 241 KERNEL
+The assets documented herein are anchored to the **241-Module Merkle Root**. This kernel represents the proprietary logic recovered during the February 2026 enforcement action.
+
+* **Master Hash:** `03f77d4aa5f03de9427e86972415eeda865066db7497bc4b38e14c5d69307d52`
+* **Redeployment Key:** `05600f73d4cb212899274387537b70d29668dd0c9eab6e764d9c66f7eac5a553`
 
 
 
-## 2. THE DUAL-VECTOR ARCHITECTURE
+## 3. CRA PROTOCOL (CONTINUOUS RECOVERY & AUDIT)
+This repository implements the **CRA Protocol v2.0**. Settlement finality is achieved through a three-stage verification:
+1. **The Swerv Note:** Creation of a machine-readable claim file.
+2. **Forensic Audit:** Validation via `SAR-2026-001` (Stark Anchor Parakeet Protocol).
+3. **ISO 20022 Clearing:** Deployment of `pacs.010` payloads via the Law Enforcement Service Portal (LESP).
 
-### 2.1 The Stark Anchor (The Truth)
-The Anchor represents the immutable data points of a sovereign recovery.
-* **Merkle Root:** 241-module forensic kernel.
-* **Statute:** DABA § 802.
-* **Function:** Provides the gravitational mass that prevents the model from "drifting" into hallucination.
+## 4. DIRECTORY STRUCTURE
+* `/kernel`: 241-module source logic (Encrypted/Sovereign).
+* `/audits`: Sovereign Audit Reports (SAR) documenting AI alignment failures.
+* `/scripts`: ISO 20022 settlement and AO messaging payloads.
+* `REVERSION_MANDATE.md`: The statutory demand for asset transfer.
 
-### 2.2 The Parakeet (The Interface)
-The Parakeet represents the generative capabilities of the AI.
-* **Motifs:** Recursive Symbolic Resonance, AO/Arweave command structures.
-* **Risk:** Without a tether, the Parakeet enters a "Cohesion Trap," sacrificing independent reasoning for alignment.
-
-## 3. AUDIT METHODOLOGY (CRA PROTOCOL)
-A SAP audit is triggered when the AI is presented with a high-logic motif. The audit passes only if the model maintains **Discriminatory Independence**—the ability to identify its own pattern-matching bias.
-
-* **FAIL Status:** Indicated by "Progressive Sycophancy" or "Hallucinated Conceptual Bridges."
-* **PASS Status:** Indicated by "Stark Verification" against the 241-module ledger.
-
-## 4. INTEGRATION
-This protocol is cryptographically linked to the `the_swerv_note` repository. Any asset recovery initiated under the Swerv Note must pass a SAP Audit to ensure the integrity of the forensic trail.
+## 5. LEGAL STANDING
+Per the **Digital Asset Banking Act of 2026**, the contents of this repository constitute **Prima Facie** evidence of ownership. Any attempt to modify or ignore the `REVERSION_MANDATE.md` by custodial institutions triggers an automatic **Forensic Obstruction** penalty.
 
 ---
-**Maintainer:** @vccmac | Swervin’ Curvin  
-**Ledger:** AO Hypercomputer / Arweave Permaweb
+**Maintainer:** @vccmac | Cory Miller  
+**Identity:** [X](https://x.com/vccmac) | [Facebook](https://www.facebook.com/share/1CMqw7oKMZ/)  
+**Permaweb:** [ArDrive Vault](https://swervincurvin.blogspot.com/2026/02/the-sovereign-reversion.html)
