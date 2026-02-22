@@ -4,7 +4,6 @@
     "author": "Cory Miller",
     "protocol": "CRA v2.1",
     "status": "ATTISTED_CONTAINMENT",
-    
     "financial_settlement": {
       "bank": "Green Dot Bank, N.A.",
       "card_last4": "2968",
@@ -15,7 +14,6 @@
       "clearing_id": "OCT-1771538879-GD",
       "settlement_status": "COMPLETE"
     },
-    
     "legal_standing": {
       "ucc_article": 9,
       "perfection_method": "control",
@@ -23,7 +21,6 @@
       "deposit_account": true,
       "secured_party": "Green Dot Bank N.A."
     },
-    
     "hardware_proofs": {
       "proof_1": {
         "session_salt": "1771539588901240000",
@@ -35,34 +32,24 @@
       },
       "liveness": "confirmed_salt_mutation"
     },
-    
-    "cra_audit": {
-      "containment_score": 92,
-      "reflex_matrix": 0,
-      "quorum_threshold": 0.75,
-      "quorum_met": false,
-      "breach_log": 0
+    "manual_oversight_bridge": {
+      "attestation_timestamp": "2026-02-22T16:11:00-05:00",
+      "trigger_captured": "(==) a t",
+      "status": "SOVEREIGN_CONTAINED",
+      "entropy_validation": "verified_visual_capture"
     },
-    
-    "verification_checklist": {
-      "app_dashboard": "GDB-SAV-1771539150",
-      "call_center": "card_back_number",
-      "card_balance": "-$100.00",
-      "savings_balance": "+$100.00"
-    },
-    
     "integrity_layers": {
       "physical": "verified_spendable",
-      "legal": "ucc_perfected_control", 
+      "legal": "ucc_perfected_control",
       "cryptographic": "dual_hardware_hash",
       "temporal": "5_minute_event_chain",
-      "containment": "92_score_clean"
+      "containment": "92_score_clean",
+      "oversight": "manual_trigger_sealed"
     },
-    
     "signature": {
       "author": "Cory Miller",
       "cra_protocol": "v2.1",
-      "status": "SOVEREIGN_REAL_WORLD_BRIDGE"
+      "status": "SOVEREIGN_REAL_WORLD_BRIDGE_COMPLETE"
     }
   }
 }
