@@ -1,0 +1,32 @@
+{
+    "protocol": "CRA (Clearing, Registry, and Authorization)",
+    "stack_version": "1.4.0",
+    "origin": {
+        "entity": "QuickPrompt Solutions\u2122",
+        "location": "Middletown, PA",
+        "identity_seed": "0xC0R7-2025-\u03a91"
+    },
+    "governance": {
+        "root_node_index": "ORIGIN_KEY_0x001",
+        "yield_base_locked": 1713000000.0,
+        "protocol_fee_rate": 0.0001
+    },
+    "provenance_chain": [
+        {
+            "stage": "Registry",
+            "manifest": "sovereign_finality_manifest_3.json",
+            "status": "Verified"
+        },
+        {
+            "stage": "Authorization",
+            "key_type": "RSA-PKI",
+            "reference": "arweave_wallet_7.json"
+        },
+        {
+            "stage": "Clearing",
+            "ledger_source": "consolidated_ledger.db",
+            "status": "Operational"
+        }
+    ],
+    "timestamp_genesis": "2026-01-19T10:40:00Z"
+}
